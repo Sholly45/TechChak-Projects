@@ -1,5 +1,5 @@
 ## Documentation For Task 1: Host Your Static Website Using S3 And Cloudfront
-# This shows how the tasks was completed
+# This shows how the task was completed
 
 Before launching the Ubuntu virtual machine we need to install some dependencies on our local machine 
 
