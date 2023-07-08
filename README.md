@@ -1,7 +1,7 @@
 # TechChak-Projects
 A series of projects completed via the techchak.com platform boosting my AWS/Cloud knowledge
 
-Some of the projects completed are: 
+Some of the completed projects i worked on are: 
 
 1. Host Your Static Website Using S3 And Cloudfront 
 2. Create An Alias Record In Amazon Route53
