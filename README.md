@@ -1,5 +1,5 @@
 # TechChak-Projects
-A series of projects completed via the techchak.com platform boosted my AWS/Cloud knowledge
+A series of projects completed via the techchak.com platform to boost my AWS/DevOps Cloud knowledge
 
 Some of the completed project tasks i worked on are: 
 
