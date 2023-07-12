@@ -1,9 +1,7 @@
-# Create An Alias Record In Amazon Route53
-**Project Task**: After hosting the static website from the previous task https://app.techchak.com/projects/140?view=builder, your team lead realized the s3 endpoint was inadequate. Consequently, it was requested that you set up an Alias record in Amazon Route53 for the S3 Endpoint and make the website secure by serving its content over https
+# Run A React App On AWS Cloud9 From Scratch
+**Project Task**: Your software developer just completed a ReactJs website, he struggled for hours to preview the newly create react app, So your CTO asked you to test and run the ReactJs code on cloud 9 to avoid facing problems in previewing the app locally in the IDE browser and on the browser.
 
 # Project Prerequisites
-- Must have completed https://app.techchak.com/projects/140?view=builder
-- Knowledge of AWS Cloud
-- Must be familiar with Route53
-- Must be familiar with DNS
-- Must have a domain name
+- Knowledge of AWS
+- Knowledge of AWS Cloud 9
+- Must be familiar with Git commands
