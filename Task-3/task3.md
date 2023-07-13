@@ -34,11 +34,11 @@ copy the ‘on your network url’ shown on to your browser
 
 Go to your ec2 instance and then select security groups, then go to the inbound rules, and open all ports, then reload the browser
 
-![1](https://github.com/Sholly45/TechChak-Projects/blob/e10f0be30ee88dabdb067df8ce55a978a0fe7a4e/Task-3/images/8.png)
+![1](https://github.com/Sholly45/TechChak-Projects/blob/58ef9437c752ae8fa9c6f53eb3d1fefa8948f04c/Task-3/images/8.png)
 
 Then refresh the page, then you would see the App has been successfully deployed
 
-![1](https://github.com/Sholly45/TechChak-Projects/blob/e10f0be30ee88dabdb067df8ce55a978a0fe7a4e/Task-3/images/10.png)
+![1](https://github.com/Sholly45/TechChak-Projects/blob/58ef9437c752ae8fa9c6f53eb3d1fefa8948f04c/Task-3/images/10.png)
 
 
 
