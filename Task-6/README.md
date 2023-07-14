@@ -1,2 +1,4 @@
-# Host Your Static Website Using S3 And Cloudfront 
-**Project Task**: After you hosted the website on s3 from the first task https://app.techchak.com/projects/140?view=user your CTO discovered the deploying the static website directly from s3 was not scalable. So you were asked to show the website content using Cloudfront in order to fulfill this contract before routing it via the domain.
+# End-To-End-MERN-Stack-Deployment
+**Project Task**: Congratulations on the successful deployment of the static front-end app via CloudFront and your backend NodeJs server. The management is extremely impressed by your hard work and dedication to our infrastructure but as it is now, our users can’t use the application because the front-end application and the backend API are not interacting yet, despite the fact that they are both operational. So we would like you to set up an infrastructure to make both the backend API and the app communicate with each other. Before I suggest the approach to setting up the infrastructure, I want you to take a look at the architecture which represents what you will be helping the team to build as a POC.
+
+The good thing here is that you don’t need to do a lot of configurations like setting up a backend server since you have one running from the previous sprint, the client side is where we will focus our attention to. 
