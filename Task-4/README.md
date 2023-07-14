@@ -1,3 +1,5 @@
+![1](https://github.com/Sholly45/TechChak-Projects/blob/1bcdd5a3ec184789437871354e204a18c9111e91/Task-4/images/1.png)
+
 # React Frontend Deployment(Roadmap1)
 **Project Task**: Welcome on board and I am thrilled to have you on our team. As you already know, we are a Car dealership company. We currently have a team of developers working on our web application. (Both the front and back ends). Our backend is built in nodejs, and our frontend is built in REACTJS. The preferred deployment mode is to deploy the front end (REACT) as a static website hosted in S3 and served to our users via CloudFront. Once this is achieved, the management wants you to get a registered domain name from AWS Route 53 or any other provider like GoDaddy, once this has been accomplished. Next, configure route53 or the domain name provider of your choice to direct traffic to the CloudFront distribution where our static website is hosted. In the end, users should be able to access our static website when they visit the domain.
 
